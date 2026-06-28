@@ -15,8 +15,6 @@ html{
     color: var(--font_color);
     background-color: var(--background_outside);
     box-sizing: border-box;
-    display: flex;
-    justify-content: center;
     min-width: 600px;
 }
 body{
