@@ -17,7 +17,7 @@ html{
     box-sizing: border-box;
     display: flex;
     justify-content: center;
-    min-width: 600px;
+    min-width: 610px;
 }
 body{
     max-width: 1000px;
@@ -52,6 +52,7 @@ nav{
     background-color: var(--theme);
     text-align: center;
     font-size: small;
+    overflow: scroll;
 }
 nav ul{
     list-style: none;
