@@ -50,7 +50,6 @@ nav{
     background-color: var(--theme);
     text-align: center;
     font-size: small;
-    overflow: scroll;
 }
 nav ul{
     list-style: none;
@@ -61,7 +60,6 @@ nav li{
     align-content: center;
     width: 100%;
     padding: 5px;
-    flex-wrap: wrap;
 }
 nav a{
     text-decoration: none;
@@ -106,4 +104,12 @@ footer{
     height: 50px;
     background-color: var(--theme);
     box-sizing: border-box;
+}
+@media(max-width: 600px){
+    nav{
+        overflow: scroll;
+    }
+    nav li{
+        min-width: 33%;
+    }
 }
