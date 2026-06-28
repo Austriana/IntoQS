@@ -11,13 +11,13 @@
     --font_color: rgb(0,0,0);
 }
 html{
-    scroll-padding-top: 207px;
+    scroll-padding-top: 100px;
     color: var(--font_color);
     background-color: var(--background_outside);
     box-sizing: border-box;
     display: flex;
     justify-content: center;
-    min-width: 350px;
+    min-width: 600px;
 }
 body{
     max-width: 1000px;
@@ -25,64 +25,53 @@ body{
     background-color: var(--background_inside);
 }
 #logo{
+    max-width: 50%;
     width: 400px;
-    margin: 20px;
+    padding: 20px;
 }
 header{
     display: flex;
     height: fit-content;
     background-color: var(--background_inside);
     justify-content: space-between;
-    flex-wrap: wrap;
     align-items: center;
-}
-header ul{
-    font-size: 30px;
-    margin-right: 70px;
 }
 header li{
     list-style: none;
+}
+header div{
+    font-size: 25px;
+    padding: 20px;
+    width: 100%;
+    text-align: right;
 }
 nav{
     position: sticky;
     top: 0px;
     background-color: var(--theme);
-    cursor: pointer;
-}
-nav ul {
-    display: flex;
-    flex-wrap: wrap;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    justify-content: center;
-}
-
-nav li {
-    flex: 0 0 25%;
-    max-width: 25%;
-    box-sizing: border-box;
     text-align: center;
-    min-width: fit-content;
 }
-
-nav a {
-    text-decoration: none;
-    color: inherit;
-    display: block;
-    padding: 20px 10px;
-    transition: .3s ease transform;
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
 }
-
-nav a:hover {
-    transform: translateY(-5px);
-}
-
-a{
-    color: var(--font_color);
-    text-decoration: none;
+nav li{
+    align-content: center;
     width: 100%;
+    padding: 5px;
+    flex-wrap: wrap;
+}
+nav a{
+    text-decoration: none;
+    font-size: small;
+    color: var(--font_color);
+    width: 100%;
+    cursor: pointer;
+    display: inline-block;
+}
+nav li:hover{
+    background-color: var(--hover);
 }
 main{
     display: flex;
@@ -117,17 +106,4 @@ footer{
     height: 50px;
     background-color: var(--theme);
     box-sizing: border-box;
-}
-@media(max-width: 400px){
-    html{
-        scroll-padding-top: 414px;
-    }
-}
-@media(max-width: 770px){
-    html{
-        scroll-padding-top: 311px;
-    }
-    header div{
-        display: none;
-    }
 }
