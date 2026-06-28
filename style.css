@@ -46,6 +46,7 @@ header div{
     text-align: right;
 }
 nav{
+    flex-wrap: wrap;
     position: sticky;
     top: 0px;
     background-color: var(--theme);
