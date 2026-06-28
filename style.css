@@ -9,9 +9,11 @@
     --background_outside: rgb(51, 49, 49);
     --background_inside: rgb(248, 246, 246);
     --font_color: rgb(0,0,0);
+    --blue: rgb(15,48,81);
+    --green: rgb(111, 148, 68);
 }
 html{
-    scroll-padding-top: 100px;
+    scroll-padding-top: 85px;
     color: var(--font_color);
     background-color: var(--background_outside);
     box-sizing: border-box;
@@ -60,6 +62,10 @@ nav li{
     align-content: center;
     width: 100%;
     padding: 5px;
+    border-left: 1px solid var(--blue);
+}
+nav li:first-child{
+    border: none;
 }
 nav a{
     text-decoration: none;
