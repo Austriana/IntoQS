@@ -17,7 +17,7 @@ html{
     box-sizing: border-box;
     display: flex;
     justify-content: center;
-    min-width: 625px;
+    min-width: 360px;
     overflow: auto;
 }
 body{
@@ -27,7 +27,7 @@ body{
 }
 #logo{
     max-width: 50%;
-    width: 400px;
+    width: 300px;
     padding: 20px;
 }
 header{
@@ -41,9 +41,7 @@ header li{
     list-style: none;
 }
 header div{
-    font-size: 25px;
     padding: 20px;
-    width: 100%;
     text-align: right;
 }
 nav{
@@ -52,6 +50,7 @@ nav{
     background-color: var(--theme);
     text-align: center;
     font-size: small;
+    overflow: scroll;
 }
 nav ul{
     list-style: none;
