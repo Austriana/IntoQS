@@ -17,7 +17,8 @@ html{
     box-sizing: border-box;
     display: flex;
     justify-content: center;
-    min-width: 610px;
+    min-width: 625px;
+    overflow: auto;
 }
 body{
     max-width: 1000px;
@@ -46,13 +47,11 @@ header div{
     text-align: right;
 }
 nav{
-    flex-wrap: wrap;
     position: sticky;
     top: 0px;
     background-color: var(--theme);
     text-align: center;
     font-size: small;
-    overflow: scroll;
 }
 nav ul{
     list-style: none;
