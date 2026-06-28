@@ -20,7 +20,6 @@ html{
     display: flex;
     justify-content: center;
     min-width: 360px;
-    overflow: auto;
 }
 body{
     max-width: 1000px;
@@ -113,7 +112,7 @@ footer{
 }
 @media(max-width: 600px){
     nav{
-        overflow: scroll;
+        overflow-x: scroll;
     }
     nav li{
         min-width: 33%;
