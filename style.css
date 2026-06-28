@@ -2,6 +2,8 @@
     /* border: 1px solid red; */
     padding: 0;
     margin: 0;
+    text-size-adjust: none;         /* Verhindert, dass das Handy Texte automatisch vergrößert */
+    -webkit-text-size-adjust: none; /* Speziell für Safari/iPhone */
 }
 :root{
     --theme: rgb(197, 206, 202);
@@ -15,6 +17,8 @@ html{
     color: var(--font_color);
     background-color: var(--background_outside);
     box-sizing: border-box;
+    display: flex;
+    justify-content: center;
     min-width: 600px;
 }
 body{
