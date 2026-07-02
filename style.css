@@ -105,6 +105,7 @@ section div{
 section h2, section div img{
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 section:last-child{
     margin-bottom: 40px;
