@@ -2,6 +2,8 @@
     /* border: 1px solid red; */
     padding: 0;
     margin: 0;
+    word-wrap: break-word;
+    hyphens: auto;
 }
 :root{
     --theme: rgb(197, 206, 202);
@@ -109,7 +111,6 @@ section h2, section div img{
     display: flex;
     justify-content: center;
     text-align: center;
-    word-wrap: break-word;
 }
 section:last-child{
     margin-bottom: 40px;
