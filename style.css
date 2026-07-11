@@ -36,17 +36,16 @@ body{
 }
 #navContainer{
     position: fixed;
-    top: 215px;
+    top: 130px;
     max-width: 1000px;
     width: 100%;
-    height: calc(100% - 265px);
+    height: calc(100% - 180px);
     text-align: center;
     display: none;
     justify-content: center;
     align-content: center;
     font-size: 25px;   
     background-color: var(--background_inside);
-    overflow-y: auto;
     z-index: 1;
 }
 #navContainer ul{
@@ -106,14 +105,14 @@ header{
     position: sticky;
     top: 0;
     display: flex;
-    height: 129px;
+    height: 130px;
     background-color: var(--background_inside);
     justify-content: space-between;
     align-items: center;
 }
 nav{
     position: sticky;
-    top: 129px;
+    top: 130px;
     background-color: var(--theme);
     text-align: center;
     font-size: small;
@@ -143,7 +142,7 @@ nav a{
 }
 a{
     text-decoration: none;
-    color: var(--blue);
+    color: var(--font_color);
 }
 nav li:hover{
     background-color: var(--hover);
@@ -199,7 +198,7 @@ footer{
         min-width: 33%;
     }
     #nav ul::-webkit-scrollbar {
-        height: 8px;
+        height: 7px;
     }
     #nav ul::-webkit-scrollbar-track {
         background: #e0e0e0;
@@ -208,10 +207,5 @@ footer{
     #nav ul::-webkit-scrollbar-thumb {
         background-color: #888888;
         border-radius: 4px;
-    }
-    #navContainer{
-        top: 225px;
-        height: calc(100% - 275px);
-
     }
 }

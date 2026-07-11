@@ -2,14 +2,18 @@ let nav = document.getElementById("nav");
 let navContainer = document.getElementById("navContainer");
 let hamburgerContainer = document.getElementById("hamburgerContainer");
 let hamburger = document.getElementById("hamburger");
+let body = document.getElementById('body');
 
 hamburgerContainer.addEventListener("click", () => {
     if(navContainer.style.display != "flex"){
         navContainer.style.display = "flex";
+        body.style.overflow = "hidden";
+        console.log(body.style.overflow);
         hamburger.classList.toggle("active");
     } else {
         navContainer.style.display = "none";
         hamburger.classList.remove("active");
+        body.style.overflow = "auto";
     }
 });
 
@@ -17,6 +21,7 @@ navContainer.addEventListener("click", (e) => {
     if(e.target.classList.value === "navlink"){
         navContainer.style.display = "none";
         hamburger.classList.remove("active");
+        body.style.overflow = "auto";
     }
 });
 
