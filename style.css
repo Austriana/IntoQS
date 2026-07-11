@@ -7,7 +7,7 @@
 }
 :root{
     --theme: rgb(197, 206, 202);
-    --hover: rgba(80, 77, 77, 0.2);
+    --hover: rgba(80, 77, 77, 0.3);
     --background_outside: rgb(51, 49, 49);
     --background_inside: rgb(248, 246, 246);
     --font_color: rgb(0,0,0);
@@ -15,73 +15,87 @@
     --green: rgb(111, 148, 68);
 }
 html{
-    scroll-padding-top: 225px;
-    color: var(--font_color);
-    background-color: var(--background_outside);
-    box-sizing: border-box;
     display: flex;
     justify-content: center;
-    min-width: 360px;
+    scroll-padding-top: 225px;
     scroll-behavior: smooth;
+    box-sizing: border-box;
+    min-width: 360px;
+    color: var(--font_color);
+    background-color: var(--background_outside);
 }
 body{
     max-width: 1000px;
     width: 100%;
     background-color: var(--background_inside);
 }
-#logo{
+header{
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    height: 130px;
+    background-color: var(--background_inside);
+}
+header a {
     max-width: 50%;
-    width: 300px;
+    display: block;
     padding: 20px;
+}
+
+header a img {
+    width: 100%;
+    height: auto;
 }
 #navContainer{
     position: fixed;
+    display: none;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
     top: 130px;
     max-width: 1000px;
     width: 100%;
     height: calc(100% - 180px);
-    text-align: center;
-    display: none;
-    justify-content: center;
-    align-content: center;
     font-size: 25px;   
     background-color: var(--background_inside);
     z-index: 1;
 }
 #navContainer ul{
-    list-style: none;
     display: flex;
-    padding: 0;
     justify-content: space-around;
     flex-direction: column;
+    list-style: none;
+    padding: 0;
 }
 
 #hamburgerContainer{
+    position: relative;
     width: 30px;
     height: 30px;
-    cursor: pointer;
-    position: relative;
     padding: 10px;
     margin-right: 7%;
+    cursor: pointer;
     z-index: 100;
 }
 #hamburger {
+    position: absolute;
     top: 50%;
     left: 50%;
-    position: absolute;
     width: 30px;
     height: 3px;
     background-color: var(--blue);
     transform: translate(-50%, -50%);
 }
 #hamburger::before, #hamburger::after {
+    content: "";
     position: absolute;
     width: 30px;
     height: 3px;
     background-color: var(--blue);
-    content: "";
-    transition: transform 0.3s ease, top 0.3s ease;
     transform-origin: center;
+    transition: transform 0.3s ease, top 0.3s ease;
 }
 #hamburger::before { 
     top: -10px; 
@@ -101,26 +115,17 @@ body{
     top: 0;
     transform: rotate(-45deg);
 }
-header{
-    position: sticky;
-    top: 0;
-    display: flex;
-    height: 130px;
-    background-color: var(--background_inside);
-    justify-content: space-between;
-    align-items: center;
-}
 nav{
     position: sticky;
+    text-align: center;
     top: 130px;
     background-color: var(--theme);
-    text-align: center;
     font-size: small;
 }
 nav ul{
-    list-style: none;
     display: flex;
     justify-content: space-between;
+    list-style: none;
     overflow-x: auto;
 }
 nav li{
@@ -134,15 +139,18 @@ nav li:first-child{
     border: none;
 }
 nav a{
-    text-decoration: none;
-    color: var(--font_color);
-    width: 100%;
-    cursor: pointer;
     display: inline-block;
+    text-decoration: none;
+    width: 100%;
+    color: var(--font_color);
+    cursor: pointer;
 }
 a{
     text-decoration: none;
     color: var(--font_color);
+}
+#navContainer a:hover{
+    color: var(--hover);
 }
 nav li:hover{
     background-color: var(--hover);
@@ -157,21 +165,21 @@ main.active{
 section{
     display: flex;
     justify-self: center;
-    cursor: pointer;
     box-sizing: border-box;
+    cursor: pointer;
 
 }
 section div{
-    padding: 20px;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    box-shadow: 3px 3px 3px 3px var(--theme);
-    width: 100%;
-    border-radius: 30px;
-    margin: 20px;
     gap: 20px;
+    margin: 20px;
+    padding: 20px;
+    width: 100%;
+    box-shadow: 3px 3px 3px 3px var(--theme);
+    border-radius: 30px;
 }
 section h2, section div img{
     display: flex;
@@ -187,11 +195,11 @@ footer{
     justify-content: center;
     align-items: center;
     max-width: 1000px;
-    width: 100%;
     bottom: 0;
+    width: 100%;
     height: 50px;
-    background-color: var(--theme);
     box-sizing: border-box;
+    background-color: var(--theme);
 }
 @media(max-width: 650px){
     nav li{
@@ -201,11 +209,11 @@ footer{
         height: 7px;
     }
     #nav ul::-webkit-scrollbar-track {
-        background: #e0e0e0;
+        background: var(--background_inside);
         border-radius: 4px;
     }
     #nav ul::-webkit-scrollbar-thumb {
-        background-color: #888888;
+        background-color: var(--blue);
         border-radius: 4px;
     }
 }

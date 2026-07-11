@@ -7,9 +7,8 @@ let body = document.getElementById('body');
 hamburgerContainer.addEventListener("click", () => {
     if(navContainer.style.display != "flex"){
         navContainer.style.display = "flex";
-        body.style.overflow = "hidden";
-        console.log(body.style.overflow);
         hamburger.classList.toggle("active");
+        body.style.overflow = "hidden";
     } else {
         navContainer.style.display = "none";
         hamburger.classList.remove("active");
