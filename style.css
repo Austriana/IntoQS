@@ -43,33 +43,10 @@ header a {
     display: block;
     padding: 20px;
 }
-
 header a img {
     width: 100%;
     height: auto;
 }
-#navContainer{
-    position: fixed;
-    display: none;
-    justify-content: center;
-    align-content: center;
-    text-align: center;
-    top: 130px;
-    max-width: 1000px;
-    width: 100%;
-    height: calc(100% - 180px);
-    font-size: 25px;   
-    background-color: var(--background_inside);
-    z-index: 1;
-}
-#navContainer ul{
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-    list-style: none;
-    padding: 0;
-}
-
 #hamburgerContainer{
     position: relative;
     width: 30px;
@@ -106,7 +83,6 @@ header a img {
 #hamburger.active {
     background-color: transparent;
 }
-
 #hamburger.active::before {
     top: 0;
     transform: rotate(45deg);
@@ -114,6 +90,31 @@ header a img {
 #hamburger.active::after {
     top: 0;
     transform: rotate(-45deg);
+}
+#menuContainer{
+    position: fixed;
+    display: none;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    top: 130px;
+    max-width: 1000px;
+    width: 100%;
+    height: calc(100% - 180px);
+    border-top: 1px solid var(--blue);
+    font-size: 25px;   
+    background-color: var(--background_inside);
+    z-index: 1;
+}
+#menuContainer ul{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    list-style: none;
+    padding: 0;
+}
+#menuContainer a:hover{
+    color: var(--hover);
 }
 nav{
     position: sticky;
@@ -148,9 +149,6 @@ nav a{
 a{
     text-decoration: none;
     color: var(--font_color);
-}
-#navContainer a:hover{
-    color: var(--hover);
 }
 nav li:hover{
     background-color: var(--hover);
