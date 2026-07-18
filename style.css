@@ -16,6 +16,7 @@
     --blue: rgb(15,48,81);
     --green: rgb(111, 148, 68);
     --themeGradient: linear-gradient(to top, var(--theme),var(--background_inside));
+    --hoverGradient: linear-gradient(to right, var(--theme), var(--background_inside));
 }
 html{
     display: flex;
@@ -93,29 +94,45 @@ header a img {
     top: 0;
     transform: rotate(-45deg);
 }
-#menuContainer{
+#menuContainer {
     position: fixed;
     display: none;
     justify-content: center;
-    align-content: center;
-    text-align: center;
     top: 130px;
     width: 100%;
-    height: 100%;
+    height: calc(100% - 130px);
     border-top: 1px solid var(--blue);
     font-size: 25px;   
-    background-image:var(--themeGradient);
+    background-image: var(--themeGradient);
+    box-sizing: border-box;
+    padding: 0;
     z-index: 1;
 }
-#menuContainer ul{
+
+#menuContainer ul {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-    list-style: none;
-    padding: 0;
+    overflow-y: auto;
+    padding: 20px 0;
+    width: 100%;
 }
-#menuContainer a:hover{
-    background-color: var(--hover);
+
+#menuContainer li {
+    height: fit-content;
+    text-align: center;
+    box-sizing: border-box;
+    list-style: none;
+    width: 100%;
+    padding: 3px;
+}
+#menuContainer a {
+    text-decoration: none;
+    width: 100%;
+}
+
+#menuContainer li:hover {
+    background-image: var(--hoverGradient);
 }
 nav{
     position: sticky;
@@ -142,7 +159,7 @@ nav li{
     border-bottom: 1px solid var(--blue);
 }
 nav li:hover{
-    background-color: var(--hover);
+    background-image: var(--hoverGradient);
 }
 nav a{
     display: inline-block;
@@ -198,16 +215,75 @@ section h2, section div img{
     justify-content: center;
     text-align: center;
 }
-footer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    bottom: 0;
-    width: 100%;
-    height: 50px;
-    box-sizing: border-box;
+footer {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+    row-gap: 25px;
+    padding: 30px 0;
+    min-height: fit-content;
     color: var(--font_color);
     background-image: var(--themeGradient);
+}
+
+.footer-section {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.footer-heading {
+    font-weight: bold;
+    font-size: 16px;
+    color: var(--green);
+}
+
+footer ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    gap: 10px;
+}
+
+footer li {
+    display: flex;
+    align-items: center;
+}
+footer a:hover{
+    background-image: var(--hoverGradient);
+}
+footer li:not(:last-child)::after {
+    content: "|";
+    margin-left: 10px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.copyright {
+    grid-column: 1 / -1;
+    text-align: center;
+    width: 100%;
+}
+@media (max-width: 1000px) {
+    footer {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        text-align: center;
+        row-gap: 30px;
+    }
+
+    .footer-section {
+        flex-direction: column;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    footer ul {
+        justify-content: center;
+    }
 }
 @media(max-width: 650px){
     nav li{
