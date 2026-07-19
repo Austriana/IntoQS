@@ -134,8 +134,7 @@ header a img {
 }
 
 #menuContainer li:hover, #menuContainer a:hover {
-    background-color: var(--green);
-    color: var(--background_inside);
+    background-color: var(--theme);
 }
 nav{
     position: sticky;
@@ -255,8 +254,7 @@ footer li {
     align-items: center;
 }
 footer a:hover{
-    background-color: var(--green);
-    color: var(--background_inside);
+    background-color: var(--theme);
 }
 footer li:not(:last-child)::after {
     content: "|";
