@@ -25,18 +25,6 @@ menuContainer.addEventListener("click", (e) => {
     }
 });
 
-navContainer.addEventListener("click", (e) => {
-    let targetClass = e.target.closest("li").className;
-    let targetElement = document.getElementById(`${targetClass}`);
-        body.style.overflow = "auto";
-    if (targetElement) {
-        document.querySelectorAll('.active').forEach(content => {
-            content.classList.remove('active');
-        });
-        targetElement.classList.add('active');
-    }
-});
-
 popupBox.forEach(e => {
     e.addEventListener('click', () => {
         let popupContent = e.querySelector('.popupContent');
