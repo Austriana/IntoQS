@@ -208,7 +208,7 @@ section {
 }
 section div.active{
     display: grid;
-    grid-template-rows: 150px 1fr; 
+    grid-template-rows: 250px; 
     grid-template-columns: 1fr;    
     justify-self: start;
     position: fixed;
