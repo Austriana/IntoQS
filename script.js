@@ -44,5 +44,11 @@ popupBox.forEach(e => {
             popupContent.classList.toggle('active');
             e.classList.toggle('active');
         }
+        console.log(popupContent.className);
+        if(popupContent.className === 'popupContent active'){
+            body.style.overflow = "hidden";
+        } else {
+            body.style.overflow = "auto";
+        }
     });
 });
