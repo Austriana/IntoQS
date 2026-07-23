@@ -1,9 +1,9 @@
-let navContainer = document.getElementById("navContainer");
-let menuContainer = document.getElementById("menuContainer");
-let hamburgerContainer = document.getElementById("hamburgerContainer");
 let hamburger = document.getElementById("hamburger");
+let hamburgerContainer = document.getElementById("hamburgerContainer");
+let menuContainer = document.getElementById("menuContainer");
+let navContainer = document.getElementById("navContainer");
 let body = document.getElementById('body');
-let popup = document.querySelectorAll('.popup');
+let popupBox = document.querySelectorAll('.popupBox');
 
 hamburgerContainer.addEventListener("click", () => {
     if(menuContainer.style.display != "flex"){
@@ -37,9 +37,12 @@ navContainer.addEventListener("click", (e) => {
     }
 });
 
-popup.forEach(e => {
+popupBox.forEach(e => {
     e.addEventListener('click', () => {
-        e.classList.toggle('active');
-        console.log(e.classList)
+        let popupContent = e.querySelector('.popupContent');
+        if (popupContent) {
+            popupContent.classList.toggle('active');
+            e.classList.toggle('active');
+        }
     });
 });
