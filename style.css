@@ -205,6 +205,8 @@ section {
 }
 .popupContent {
     display: none;
+    justify-self: center;
+    max-width: 1000px;
 }
 section div.active{
     display: grid;
@@ -221,11 +223,23 @@ section div.active{
     width: 100%;
     height: calc(100% - 237px);
     background-color: var(--background_inside);
-    box-shadow: none;
     z-index: 2;
     border-radius: 0;
+    box-shadow: inset 0px 0px 20px 20px var(--theme);
     overflow-y: auto;
-    cursor: auto;
+    cursor: url('https://icons8.com') 12 12, auto;
+}
+section div.active::after {
+    content: "✕";
+    position: absolute;
+    top: 10%;
+    right: 7%;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: var(--font_color);
+    z-index: 9999;
+    cursor: pointer;
 }
 section div.active img, section div.active h2{
     justify-self: center;
@@ -343,4 +357,8 @@ footer a {
         top: 243px;
         height: calc(100% - 243px);
     }
+    section div.active::after {
+    top: 7%;
+    right: 15%;
+}
 }

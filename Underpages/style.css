@@ -137,42 +137,6 @@ header a img {
 #menuContainer li:hover, #menuContainer a:hover {
     background-color: var(--theme);
 }
-#datenschutz {
-    padding: 40px 20px;
-    max-width: 800px;
-    margin: 0 auto;
-    font-family: sans-serif;
-    color: #333;
-    line-height: 1.6;
-}
-.datenschutz-container h1 {
-    font-size: 2.5rem;
-    color: #2c3e50;
-    margin-bottom: 30px;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
-}
-.datenschutz-block {
-    margin-bottom: 30px;
-}
-.datenschutz-block h2 {
-    font-size: 1.5rem;
-    color: #2c3e50;
-    margin-top: 20px;
-    margin-bottom: 15px;
-}
-.datenschutz-block h3 {
-    font-size: 1.1rem;
-    color: #34495e;
-    margin-top: 15px;
-    margin-bottom: 5px;
-}
-.address-box {
-    background-color: #f8f9fa;
-    padding: 15px;
-    border-left: 4px solid var(--blue);
-    margin: 15px 0;
-}
 footer {
     display: grid;
     grid-template-columns: auto auto;
