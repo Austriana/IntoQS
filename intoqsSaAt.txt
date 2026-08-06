@@ -3,13 +3,13 @@ Beratung und Audits
 
 	REIN:
 	lebensmittelrechtliche Beratung und Deklarationsprüfung
-	Verkehrsfähigkeitsprüfung von Nahrungsergänzungsmitteln -> Ikon von 	Labormanagement
+	Verkehrsfähigkeitsprüfung von Nahrungsergänzungsmitteln -> Ikon von Labormanagement
 	Einlistungsberatung 
 	Risiko-/Problemmangement vorort -> Ikon von Lieferantenaudits
 	Beratung bei technologischen Problemen
 	Erstellen von Stellungnahmen bzw. Fachgutachten -> Ikon von Zertifizierung?
 	Unterstützung beim Aufbau eines Krisenmanagments
-	Gegenprobengutachten -> Ikon Hygieneschulung aber ohne die Hand und den 	Schwamm und die Sterne
+	Gegenprobengutachten -> Ikon Hygieneschulung aber ohne die Hand und den Schwamm und die Sterne
 	
 Tierartenanalytik als Ober-Tab raus
 Kombiikon zu Molekuralbiologie aufnehmen
@@ -19,12 +19,12 @@ Chemie weiterer Untertab mit "Tierfutter Nährwerte" hier das Ikon von den Tiera
 Probenvorbereitung und Extrarktion vllt raus?
 
 Sensorische Prüfungen Tab fehlt 
-da dann DLG, Verkehrsfähigkeitssensorik, Spezialsensorik, 
+da dann Verkostung nach DLG-Schemen, Verkehrsfähigkeitssensorik, Spezialsensorik 
 
 Histotab fehlt
-	Histologische Standardfärbung zur semiquantitativen Untersuchung der geweblichen 	Zusammensetzung
+	Histologische Standardfärbung zur semiquantitativen Untersuchung der geweblichen Zusammensetzung
 	Untersuchung auf Knochenpartikel
-	Untersuchung auf Rework/wiederverarbeitetem Brät und Restbestandteile von 			Hüllenmaterial	
+	Untersuchung auf Rework/wiederverarbeitetem Brät und Restbestandteile von Hüllenmaterial	
 	Untersuchung auf Verdickungsmittel sowie Stärke
 
 Molkularbiologie
@@ -56,7 +56,6 @@ weitere Hinweise:
 Kontakt - Erreichbarkeit- Leerzeichen Zwischen Uhr.Anfragen fehlt
 News und aktuelles erstmal leeren?
 Genauso Stellenangebote evt. Initiativbewerbung offen lassen und drüber "aktuell sind keine offenen Stellen verfügbar"
-warum kann man nix markieren?
 Karriere: Leerzeichen nach 1. Satz fehlt
 Wir suchen motivierte blah blah, da den Bereich rausnehmen. 
 Downloads raus da ist noch nichts wird aber benötigt für später da fehlt auch Leerzeichen nach Download
@@ -65,7 +64,7 @@ Metallanalytik ersetzen durch Elementanalytik
 
 Texte:
 GVO:
-1. Satz so lassen. 
+1. Satz so lassen. Die Kennzeichnung von GVO-Anteilen 
 
 Allergene und Tierarten:
 Die Verordnung (EU) Nr. 1169/2011 definiert in der EU  vierzehn Auslöser für Allergien oder Unverträglichkeiten. 
