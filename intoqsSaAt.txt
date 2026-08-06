@@ -4,34 +4,40 @@ Beratung und Audits
 	REIN:
 	lebensmittelrechtliche Beratung und Deklarationsprüfung
 	Verkehrsfähigkeitsprüfung von Nahrungsergänzungsmitteln -> Ikon von Labormanagement
-	Einlistungsberatung 
-	Risiko-/Problemmangement vorort -> Ikon von Lieferantenaudits
+	Erstellen von Stellungnahmen/Fachgutachten -> Ikon von Zertifizierung?
+	Risiko- & Problemmangement (auch vorort) -> Ikon von Lieferantenaudits
 	Beratung bei technologischen Problemen
-	Erstellen von Stellungnahmen bzw. Fachgutachten -> Ikon von Zertifizierung?
-	Unterstützung beim Aufbau eines Krisenmanagments
-	Gegenprobengutachten -> Ikon Hygieneschulung aber ohne die Hand und den Schwamm und die Sterne
+	Erstellung von Gegenprobengutachten -> Ikon Hygieneschulung aber ohne die Hand und den Schwamm und die Sterne
+	Beratung bei Einlistungen
+	
 	
 Tierartenanalytik als Ober-Tab raus
 Kombiikon zu Molekuralbiologie aufnehmen
 
 Nährwertanalytik in die Chemie Ikon übernehmen
-Chemie weiterer Untertab mit "Tierfutter Nährwerte" hier das Ikon von den Tierarten verwendbar
-Probenvorbereitung und Extrarktion vllt raus?
+Chemie weiterer Untertab mit "Nährwertanalytik Futtermittel" hier das Ikon von den Tierarten verwendbar
+Probenvorbereitung und Extraktion raus
 
 Sensorische Prüfungen Tab fehlt 
-da dann Verkostung nach DLG-Schemen, Verkehrsfähigkeitssensorik, Spezialsensorik 
+da dann 
+	Verkostung in Anlehnung an das DLG-5-Punkte-Schema
+	Verkehrsfähigkeitssensorik
+	Sensorische Prüfung auf spezifische Eigenschaften
 
-Histotab fehlt
-	Histologische Standardfärbung zur semiquantitativen Untersuchung der geweblichen Zusammensetzung
+Histologie fehlt
+	Semiquantitativen Untersuchung der geweblichen Zusammensetzung
 	Untersuchung auf Knochenpartikel
-	Untersuchung auf Rework/wiederverarbeitetem Brät und Restbestandteile von Hüllenmaterial	
+	Untersuchung auf Rework/wiederverarbeitetem Brät und 
+	Untersuchung auf Restbestandteile von Hüllenmaterial	
 	Untersuchung auf Verdickungsmittel sowie Stärke
 
 Molkularbiologie
 	
 Mibi
-	Untersuchung nach VO (EG) 2073/2005
+	Untersuchung nach VO (EG) 2073/2005 
 	Untersuchung nach DGHM Kriterien
+	Lagertest von Vollkonserven -> Icon Konserven
+	Betriebs-/Umfeldhygiene -> Icon Abklatschpaddel
 	Einzelkeimauntersuchung
 	Freigabeanalytik
 
@@ -63,13 +69,17 @@ Impressum weiß ich nicht genauso wie bei AGB und Disclaimer
 Metallanalytik ersetzen durch Elementanalytik
 
 Texte:
-GVO:
-1. Satz so lassen. Die Kennzeichnung von GVO-Anteilen 
+GVO:  
+Laut Definition des Artikel 2 der europäischen Freisetzungs-Richtlinie (2001/18/EG) gilt „Gentechnisch verändert“ (gv) als ein Organismus der, „[…] mit Ausnahme des Menschen, dessen genetisches Material so verändert worden ist, wie es auf natürliche Weise durch Kreuzen und/oder natürliche Rekombination nicht möglich ist“
+Die Kennzeichnungspflicht für gentechnisch veränderte Lebensmittel und Futtermittel in der EU ist am 18. April 2004 in Kraft getreten. Danach müssen in der EU alle Lebensmittel und Futtermittel, die GVO enthalten, aus ihnen bestehen oder hergestellt wurden, zugelassen und entsprechend gekennzeichnet werden. Liegt keine Zulassung vor, dürfen solche Produkte nicht in den Verkehr gebracht werden
+Um gesetzliche Kennzeichnungspflichten einzuhalten, bestehende Auslobungen wie "ohne Gentechnik" zu Überprüfen, die Wahlfreiheit der Verbraucher zu sichern, die Rückverfolgbarkeit von Lieferketten zu gewährleisten und die strengen EU-Zulassungsvorschriften zu kontrollieren ist die Untersuchung auf GVO-Bestandteile somit unerlässlich.
+Wir bieten Ihnen in diesem Bereich präzise Screenings auf GVO Bestandeile sowie die Identifizierung und Quantifizierung derer in Lebens- und Futtermitteln an.
+
 
 Allergene und Tierarten:
 Die Verordnung (EU) Nr. 1169/2011 definiert in der EU  vierzehn Auslöser für Allergien oder Unverträglichkeiten. 
 Zu diesen gehören: Gluten, Krebstiere, Eier , Fisch, Erdnüsse, Soja, Milch, Schalenfrüchte, Sellerie, Senf, Sesamsamen, Schwefeldioxid und Sulphite, Lupinen, Weichtiere 
-Wir bieten die Untersuchung von unabsichlichen Spuren derer sowie weiterer allergenen DNA oder Tierart-DNA an. Sei es zur Absicherung Ihrer Produkte gegen Kreuzkontaminationen oder zur Überprüfung von Reinungschritten in den Produktionslinien. 
+Wir bieten die Untersuchung von unabsichtlichen Spuren derer sowie auf weitere allergene DNA oder Tierart-DNA an. Sei es zur Absicherung Ihrer Produkte gegen Kreuzkontaminationen oder zur Überprüfung von Reinungschritten in den Produktionslinien. 
 Gerne beraten wir Sie bei positiven Befunden auch hinsichtlich einer toxikologischen Risikobewertung. 
 
 Sequenzierung und Keimidentifizierung: 
@@ -81,6 +91,7 @@ Real Time PCR -> würde ich raus nehmen
 Probenvorbereitung und DNA Extraktion -> eigentlich auch raus hat null Mehrwert
 
 Pestizid und Rückstandsanalytik
+
 
 Elementanalytik
 
