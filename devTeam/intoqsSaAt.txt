@@ -16,7 +16,7 @@ Kombiikon zu Molekuralbiologie aufnehmen
 
 Nährwertanalytik in die Chemie Ikon übernehmen
 Chemie weiterer Untertab mit "Nährwertanalytik Futtermittel" hier das Ikon von den Tierarten verwendbar
-Probenvorbereitung und Extraktion raus
+Probenvorbereitung und Extraktion raus -> Icon verwenden für Freigabeanalytik
 
 Sensorische Prüfungen Tab fehlt 
 da dann 
@@ -34,14 +34,14 @@ Histologie fehlt
 Molkularbiologie
 	
 Mibi
-	Untersuchung nach VO (EG) 2073/2005 
-	Untersuchung nach DGHM Kriterien
+	Untersuchung nach VO (EG) 2073/2005 -> Ikon von Listeria UND Salmonelle kombinieren? (bestehend)
+	Untersuchung nach DGHM Kriterien -> Ikon von Gesamtkeimzahl verwenden (bestehend)
 	Lagertest von Vollkonserven -> Icon Konserven
 	Betriebs-/Umfeldhygiene -> Icon Abklatschpaddel
 	Einzelkeimauntersuchung
 	Freigabeanalytik
 
-neuer Tab wenn möglich mit weitere Leistungen
+neuer Tab wenn möglich mit weitere Leistungen -> Icon Nährwerte plus großes Plus
 	da rein muss dann:
 	Prüfung auf Einhaltung der FertigPackVO -> Ikon 3 Packungen auf der Waage
 	Präparation auf Leitsatzkonformität -> Ikon Bierschinken
