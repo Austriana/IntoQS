@@ -1,22 +1,9 @@
 Beratung und Audits
-	einmal alles raus 
-
 	REIN:
 	lebensmittelrechtliche Beratung und Deklarationsprüfung
-	Verkehrsfähigkeitsprüfung von Nahrungsergänzungsmitteln -> Ikon von Labormanagement
-	Erstellen von Stellungnahmen/Fachgutachten -> Ikon von Zertifizierung?
-	Risiko- & Problemmangement (auch vorort) -> Ikon von Lieferantenaudits
 	Beratung bei technologischen Problemen
-	Erstellung von Gegenprobengutachten -> Ikon Hygieneschulung aber ohne die Hand und den Schwamm und die Sterne
 	Beratung bei Einlistungen
-	
-	
-Tierartenanalytik als Ober-Tab raus 
-Kombiikon zu Molekuralbiologie aufnehmen 
 
-Nährwertanalytik in die Chemie Ikon übernehmen
-Chemie weiterer Untertab mit "Nährwertanalytik Futtermittel" hier das Ikon von den Tierarten verwendbar
-Probenvorbereitung und Extraktion raus -> Icon verwenden für Freigabeanalytik
 
 Sensorische Prüfungen Tab fehlt 
 da dann 
@@ -35,27 +22,17 @@ Molkularbiologie
 	
 Mibi
 	Untersuchung nach VO (EG) 2073/2005 -> Ikon von Listeria UND Salmonelle kombinieren? (bestehend)
-	Untersuchung nach DGHM Kriterien -> Ikon von Gesamtkeimzahl verwenden (bestehend)
 	Lagertest von Vollkonserven -> Icon Konserven
 	Betriebs-/Umfeldhygiene -> Icon Abklatschpaddel
 	Einzelkeimauntersuchung
 	Freigabeanalytik
 
-neuer Tab wenn möglich mit weitere Leistungen -> Icon Nährwerte plus großes Plus
+neuer Tab wenn möglich mit weitere Leistungen
 	da rein muss dann:
 	Prüfung auf Einhaltung der FertigPackVO -> Ikon 3 Packungen auf der Waage
 	Präparation auf Leitsatzkonformität -> Ikon Bierschinken
 	Gravimetrische QUID Überprüfung -> Ikon Zutatenverzeichnis mit Quid?
 	Fremdkörper
-	
-Reihenfolge
-Molekularbio auf die 1
-Mibi 2
-Histo 3
-Beratung 4
-Sensorik 5 
-weitere Leistungen 6
-Chemie 7
 
 
 weitere Hinweise: 
@@ -66,7 +43,7 @@ Karriere: Leerzeichen nach 1. Satz fehlt
 Wir suchen motivierte blah blah, da den Bereich rausnehmen. 
 Downloads raus da ist noch nichts wird aber benötigt für später da fehlt auch Leerzeichen nach Download
 Impressum weiß ich nicht genauso wie bei AGB und Disclaimer
-Metallanalytik ersetzen durch Elementanalytik
+Über uns 
 
 Texte:
 GVO:  
@@ -86,9 +63,7 @@ Sequenzierung und Keimidentifizierung:
 Durch die Möglichkeit der Sequenzierung bieten wir Ihnen die präszisen Bestimmung des Erbguts von nachgewiesenen Keimen also die Erstellung eines exakten genetischen Fingerabdruck des Erregers.
 Dies ermöglicht es Behörden und Herstellern, Infektionsketten bei Ausbrüchen aufzuklären, Kontaminationsquellen in Produktionsanlagen präzise zu lokalisieren und zu bekämpfen und Lieferketten abzusichern.
 
-Real Time PCR -> würde ich raus nehmen
 
-Probenvorbereitung und DNA Extraktion -> eigentlich auch raus hat null Mehrwert
 
 Pestizid und Rückstandsanalytik
 
@@ -140,7 +115,7 @@ Die Einlistung neuer Produkte im Lebensmitteleinzelhandel (LEH) erfordert die st
 Unsere erfahrenen Sachverständigen begleiten und beraten Sie durch diesen aufwendigen Prozess. 
 Durch diese qualifizierte Vorprüfung minimieren Sie das Risiko von Verzögerungen oder Ablehnungen beim Markteintritt und sichern sich einen reibungslosen Listungsprozess.
 
-Risiko-/Problemmangement vorort
+Risiko-/Problemmangement Vorort
 Unvorhergesehene Qualitätsabweichungen oder Hygieneengpässe im laufenden Betrieb erfordern eine schnelle und objektive Intervention. 
 Unsere unabhängigen Sachverständigen kommen bei Notwenidgkeit direkt in Ihre Produktionsstätte, um mittels strukturierter Ursachenanalyse Schwachstellen direkt an der Linie zu identifizieren. 
 Durch diesen neutralen Blick von außen etablieren Sie schnell wirksame Korrekturmaßnahmen und sichern Ihre Prozesse ohne lange Betriebsunterbrechungen ab.
