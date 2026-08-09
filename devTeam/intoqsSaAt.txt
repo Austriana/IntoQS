@@ -32,25 +32,85 @@ Impressum weiß ich nicht genauso wie bei AGB und Disclaimer
 
 Texte:
 
+2073
+Die Einhaltung der gesetzlichen mikrobiologischen Kriterien für Lebensmittel ist eine Grundvoraussetzung für die Marktfähigkeit in der EU. 
+Unsere Team aus Mikrobiologen und Sachverständigen prüfen Ihre Produkte streng nach den Vorgaben der Verordnung (EG) Nr. 2073/2005 hinsichtlich Prozesshygiene- und Lebensmittelsicherheitskriterien. 
+Sie erhalten damit die notwendige Sicherheit für Ihre internen Kontrollen und behördliche Prüfungen.
 
+DGHM
+Die Beurteilung von Lebensmitteln ohne spezifische gesetzliche Grenzwerte erfordert anerkannte wissenschaftliche Maßstäbe zur Qualitätsbewertung. 
+Wir untersuchen Ihre Proben auf Basis der aktuellen Richt- und Warnwerte der Deutschen Gesellschaft für Hygiene und Mikrobiologie (DGHM). 
+Dies ermöglicht Ihnen eine fundierte, qualitätsbezogene Einstufung Ihrer Produkte und sichert Ihre hohen Qualitätsstandards ab.
+
+Konserven
+Die mikrobiologische Stabilität und sensorische Unversehrtheit von Dauerkonserven muss über die gesamte Mindesthaltbarkeit hinweg garantiert sein. 
+Unser Labor führt standardisierte Bebrütungstests bei definierten Temperaturen durch, um potenziellen Verderb oder Bombagen frühzeitig zu erkennen. 
+Sie sichern damit Ihre thermischen Herstellungsprozesse ab und schließen Stabilitätsrisiken vor der Auslieferung aus.
+
+Umfeldhygiene
+Ein lückenloses Hygienemonitoring in den Produktionsbereichen ist der wirksamste Schutz vor Kreuzkontaminationen. 
+Wir unterstützen Sie mit maßgeschneiderten Konzepten für Abklatsch- und Abstrichtests von Oberflächen, Anlagen und Bedarfsgegenständen. 
+Durch diese regelmäßige Validierung Ihrer Reinigungs- und Desinfektionsmaßnahmen optimieren Sie Ihre Betriebshygiene nachhaltig.
+
+Einzelkeimauntersuchung
+Spezifische Fragestellungen in der Produktentwicklung oder bei Rohstoffprüfungen erfordern oft den gezielten Nachweis einzelner Mikroorganismen. 
+Unser flexibel aufgestelltes Laborteam untersucht auf die von Ihnen gewünschten Keime und Ihre Standardprüfplänen. 
+Sie profitieren von maßgeschneiderten Analysen, die exakt auf Ihre individuellen Rezepturen oder Kundenanforderungen zugeschnitten sind.
+
+Freigabeanalytik
+Der zuverlässige Ausschluss von Krankheitserregern wie Salmonellen oder Listerien ist vor dem Inverkehrbringen risikobehafteter Chargen unverzichtbar. 
+Mittels moderner, schneller und akkreditierter Nachweisverfahren liefert Ihnen unser Fachpersonal präzise Ergebnisse in kürzester Zeit. 
+Diese schnellen Freigabeanalysen minimieren Ihre Lieferzeit, Lagerzeiten und gewährleisten die maximale Sicherheit Ihrer Endprodukte.
+
+DLG
+Die objektive Bewertung von Aussehen, Geruch, Geschmack und Konsistenz ist ein zentraler Baustein der internen Qualitätskontrolle. 
+Unser geschultes und sensorisch qualifiziertes Prüfpanel bewertet Ihre Produkte streng in Anlehnung an das anerkannte DLG-5-Punkte-Schema. 
+Sie erhalten ein detailliertes und unvoreingenommenes Qualitätsprofil, das Fehler exakt dokumentiert und Ihnen als verlässliche Basis für Ihre Produktoptimierung dient.
+
+Verkehrsfähigkeit
+Die sensorische Einwandfreiheit ist ein gesetzlich verankertes Kriterium für die Marktfähigkeit von Lebensmitteln im Sinne des Täuschungs- und Gesundheitsschutzes. 
+Unsere Sachverständigen prüfen Ihre Produkte auf Abweichungen, die eine Beanstandung nach sich ziehen könnten.
+
+spezifische Eigenschaften
+Bei Kundenreklamationen oder unerwarteten Veränderungen im Produktionsprozess ist eine zielgerichtete Fehlerursachenanalyse entscheidend. 
+Unsere sensorischen Experten untersuchen Ihre Proben fokussiert auf konkrete Fragestellungen wie Fehlaromen, Texturveränderungen oder Fremdgerüche. 
+Durch diese gezielte Analytik erhalten Sie schnell Klarheit über die Art der sensorischen Abweichung und können sofort die passenden technologischen Korrekturmaßnahmen einleiten.
+
+sensorische Prüfungen nach ASU
+Die normierte Gegenüberstellung und präzise Charakterisierung von Proben ist unerlässlich, um Rezepturänderungen, Lieferantenwechsel oder Produktstabilitäten fundiert zu bewerten. 
+Unser geschultes Panel führt diese Prüfungen streng nach den amtlichen Verfahren der Amtlichen Sammlung von Untersuchungsverfahren (ASU) durch, darunter den Dreieckstest zur Feststellung minimaler Produktunterschiede, die Rangordnungsprüfung zur Ermittlung von sensorischen Präferenzen oder Intensitäten sowie die einfach beschreibende Prüfung zur detaillierten Merkmalserfassung. 
+
+FertigPackVO
+Die exakte Einhaltung der gesetzlichen Füllmengenanforderungen schützt Lebensmittelhersteller vor rechtlichen Konsequenzen und sichert verlässliche Produktionsprozesse. 
+Unser Team kontrolliert Ihre Verpackungsinhalte nach den Vorgaben der Fertigpackungsverordnung.
+
+Präp auf Leitsatzkonformität
+Die Einhaltung der Verkehrsauffassung von Lebensmitteln setzt eine präzise Überprüfung der wertbestimmenden Rezepturkomponenten voraus. 
+Unser Team präpariert betroffene Erzeugnisse nach den maßgeblichen Vorgaben – wie beispielsweise Bierschinken nach den Deutschen Leitsätzen für Fleisch und Fleischerzeugnisse oder Schwäbische Maultaschen nach den offiziellen g.g.A.-Produktspezifikationen.
+Sie dokumentieren damit objektiv die Konformität Ihrer Rezepturen und belegen die ausgelobte Qualität sowie den regionalen Herkunftsschutz gegenüber der Lebensmittelüberwachung.
+
+QUID
+Die mengenmäßige Angabe von Zutaten (QUID) auf dem Etikett unterliegt strengen lebensmittelrechtlichen Vorgaben.
+Durch präzise gravimetrische Analysen trennen und wiegen wir die rezepturspezifischen Komponenten – wie den Fruchtanteil in Joghurt oder den Gemüseanteil in Fertiggerichten – exakt aus dem Produkt aus. 
+Sie verifizieren auf diese Weise die Rezepturtreue Ihrer Produktion und sichern die Kennzeichnung Ihrer Verpackungen damit ab.
+
+Fremdkörper	
+Das Auftreten unklarer Partikel oder Verunreinigungen in Lebensmitteln gefährdet die Produktsicherheit und kann Reklamationen nach sich ziehen. 
+Wir untersuchen eingesendete Reklamationsproben und identifiziert physikalische Fremdkörper jeglicher Art – von Glas- und Metallpartikeln bis hin zu Kunststoffen oder biologischen Materialien. 
+Sie erhalten ein fundiertes, unparteiisches Gutachten, das Ihnen eine professionelle Rückmeldung gegenüber Ihren Kunden ermöglicht.
 
 Pestizid und Rückstandsanalytik
 
+Nährwert und Vitaminanalytik
 
 Elementanalytik
 
 Zusatzstoffe und Aromen
 
-Nährwert und Vitaminanalytik
+Nährwertanalytik von Futtermitteln
 
-Inhaltsstoffe von Tierfuttermittel
+Probenvorbereitung und Extraktion
 
-DLG-Sensorik
-
-
-Verkehrsfähigkeitssensorik
-
-Spezialsensorik
 
 
 FERTIGE TEXTE 
