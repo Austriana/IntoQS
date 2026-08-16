@@ -2,8 +2,8 @@
     /* border: 1px solid red; */
     padding: 0;
     margin: 0;
-    word-wrap: break-word;
-    hyphens: auto;
+    /* word-wrap: break-word; */
+    /* hyphens: auto; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     box-sizing: border-box;
     /* user-select: none; */
@@ -225,7 +225,7 @@ section div.active{
     background-color: var(--background_inside);
     z-index: 2;
     border-radius: 0;
-    box-shadow: inset 0px 0px 20px 20px var(--theme);
+    /* box-shadow: inset 0px 0px 20px 20px var(--theme); */
     overflow-y: auto;
     cursor: url('https://icons8.com') 12 12, auto;
 }
