@@ -360,7 +360,10 @@ footer a {
         height: calc(100% - 243px);
     }
     section div.active::after {
-    top: 7%;
-    right: 15%;
-}
+        top: 7%;
+        right: 15%;
+    }
+    header a {
+        max-width: 70%;
+    }
 }
