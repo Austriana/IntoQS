@@ -205,4 +205,7 @@ footer a {
         top: 243px;
         height: calc(100% - 243px);
     }
+    header a {
+        max-width: 70%;
+    }
 }
