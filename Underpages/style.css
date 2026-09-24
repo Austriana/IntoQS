@@ -4,7 +4,7 @@
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     box-sizing: border-box;
-    user-select: none;
+    /* user-select: none; */
 }
 :root{
     --theme: rgb(186, 201, 224);
